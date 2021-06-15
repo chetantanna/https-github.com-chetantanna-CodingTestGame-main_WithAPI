@@ -1,0 +1,13 @@
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\b\CodingTestGameConsole.Test\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\b\CodingTestGameConsole.Test\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\b\CodingTestGameConsole.Test\Debug\netcoreapp3.1\nunit.engine.dll
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\b\CodingTestGameConsole.Test\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\b\CodingTestGameConsole.Test\Debug\netcoreapp3.1\CodingTestGameConsole.Test.deps.json
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\b\CodingTestGameConsole.Test\Debug\netcoreapp3.1\CodingTestGameConsole.Test.runtimeconfig.json
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\b\CodingTestGameConsole.Test\Debug\netcoreapp3.1\CodingTestGameConsole.Test.runtimeconfig.dev.json
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\b\CodingTestGameConsole.Test\Debug\netcoreapp3.1\CodingTestGameConsole.Test.dll
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\i\CodingTestGameConsole.Test\Debug\netcoreapp3.1\CodingTestGameConsole.Test.AssemblyInfoInputs.cache
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\i\CodingTestGameConsole.Test\Debug\netcoreapp3.1\CodingTestGameConsole.Test.AssemblyInfo.cs
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\i\CodingTestGameConsole.Test\Debug\netcoreapp3.1\CodingTestGameConsole.Test.csproj.CopyComplete
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\i\CodingTestGameConsole.Test\Debug\netcoreapp3.1\CodingTestGameConsole.Test.dll
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\i\CodingTestGameConsole.Test\Debug\netcoreapp3.1\CodingTestGameConsole.Test.genruntimeconfig.cache

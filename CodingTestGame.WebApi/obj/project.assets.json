@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodingTestGame.GameLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CodingTestGame.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CodingTestGame.GameLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodingTestGame.GameLogic.dll": {}
+        }
+      },
+      "CodingTestGame.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CodingTestGame.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodingTestGame.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodingTestGame.GameLogic/1.0.0": {
+      "type": "project",
+      "path": "../CodingTestGame.GameLogic/CodingTestGame.GameLogic.csproj",
+      "msbuildProject": "../CodingTestGame.GameLogic/CodingTestGame.GameLogic.csproj"
+    },
+    "CodingTestGame.Models/1.0.0": {
+      "type": "project",
+      "path": "../CodingTestGame.BusinessLogic/CodingTestGame.Models.csproj",
+      "msbuildProject": "../CodingTestGame.BusinessLogic/CodingTestGame.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CodingTestGame.GameLogic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HINDUSTAN\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HINDUSTAN\\Downloads\\CodingTestGame-main\\CodingTestGame-main\\CodingTestGame.WebApi\\CodingTestGame.WebApi.csproj",
+      "projectName": "CodingTestGame.WebApi",
+      "projectPath": "C:\\Users\\HINDUSTAN\\Downloads\\CodingTestGame-main\\CodingTestGame-main\\CodingTestGame.WebApi\\CodingTestGame.WebApi.csproj",
+      "packagesPath": "C:\\Users\\HINDUSTAN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HINDUSTAN\\Downloads\\CodingTestGame-main\\CodingTestGame-main\\CodingTestGame.WebApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HINDUSTAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\HINDUSTAN\\Downloads\\CodingTestGame-main\\CodingTestGame-main\\CodingTestGame.GameLogic\\CodingTestGame.GameLogic.csproj": {
+              "projectPath": "C:\\Users\\HINDUSTAN\\Downloads\\CodingTestGame-main\\CodingTestGame-main\\CodingTestGame.GameLogic\\CodingTestGame.GameLogic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

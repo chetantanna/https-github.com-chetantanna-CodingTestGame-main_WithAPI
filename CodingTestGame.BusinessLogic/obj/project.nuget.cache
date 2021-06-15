@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bId9T2MeIf3+npkP//VsRFH87nzB5M75XzuLi5m95YMIaDVP08nBLT0drc26SYUGjZALn6Xw7I5pml17VzEIGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HINDUSTAN\\Downloads\\CodingTestGame-main\\CodingTestGame-main\\CodingTestGame.BusinessLogic\\CodingTestGame.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HINDUSTAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HINDUSTAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

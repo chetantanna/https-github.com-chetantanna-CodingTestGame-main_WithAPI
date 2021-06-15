@@ -1,0 +1,7 @@
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\b\CodingTestGame.Models\Debug\netstandard2.0\CodingTestGame.Models.deps.json
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\b\CodingTestGame.Models\Debug\netstandard2.0\CodingTestGame.Models.dll
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\i\CodingTestGame.Models\Debug\netstandard2.0\CodingTestGame.Models.csprojAssemblyReference.cache
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\i\CodingTestGame.Models\Debug\netstandard2.0\CodingTestGame.Models.AssemblyInfoInputs.cache
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\i\CodingTestGame.Models\Debug\netstandard2.0\CodingTestGame.Models.AssemblyInfo.cs
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\i\CodingTestGame.Models\Debug\netstandard2.0\CodingTestGame.Models.csproj.CopyComplete
+D:\CodingTest\CodingTestGame\.vs\CodingTestGame\v16\lut\0\i\CodingTestGame.Models\Debug\netstandard2.0\CodingTestGame.Models.dll

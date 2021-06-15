@@ -1,0 +1,9 @@
+D:\CodingTest\CodingTestGame\CodingTestGame.BusinessLogic\bin\Debug\netstandard2.0\CodingTestGame.BusinessLogic.deps.json
+D:\CodingTest\CodingTestGame\CodingTestGame.BusinessLogic\bin\Debug\netstandard2.0\CodingTestGame.BusinessLogic.dll
+D:\CodingTest\CodingTestGame\CodingTestGame.BusinessLogic\bin\Debug\netstandard2.0\CodingTestGame.BusinessLogic.pdb
+D:\CodingTest\CodingTestGame\CodingTestGame.BusinessLogic\obj\Debug\netstandard2.0\CodingTestGame.BusinessLogic.csprojAssemblyReference.cache
+D:\CodingTest\CodingTestGame\CodingTestGame.BusinessLogic\obj\Debug\netstandard2.0\CodingTestGame.BusinessLogic.AssemblyInfoInputs.cache
+D:\CodingTest\CodingTestGame\CodingTestGame.BusinessLogic\obj\Debug\netstandard2.0\CodingTestGame.BusinessLogic.AssemblyInfo.cs
+D:\CodingTest\CodingTestGame\CodingTestGame.BusinessLogic\obj\Debug\netstandard2.0\CodingTestGame.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\CodingTest\CodingTestGame\CodingTestGame.BusinessLogic\obj\Debug\netstandard2.0\CodingTestGame.BusinessLogic.dll
+D:\CodingTest\CodingTestGame\CodingTestGame.BusinessLogic\obj\Debug\netstandard2.0\CodingTestGame.BusinessLogic.pdb
